@@ -12,4 +12,3 @@ This repository contains a setup folder with a sql script to populate the databa
 
 ## Success Criteria
 Database is created, populated with data and available to the participants to access.
-
