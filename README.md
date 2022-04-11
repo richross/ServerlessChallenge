@@ -6,7 +6,7 @@ Challenge based learning session focused on Azure Functions, Azure API-M, and Ap
   - Prepare the Azure environment to build and deploy your function.
 - [Challenge 1](/Challenge1.md) - Build Your Function App
   - Create an Azure Function App to return patient information
-- Challenge 2 - Connect to API-M Instance
+- [Challenge 2](/Challenge2.md) - Connect to API-M Instance
   - Access the Function App APIs through the exisitng API-M environment.
 - Challenge 3 - Display APIs in Developer Portal
   - Share the new APIs with your team.
