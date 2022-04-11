@@ -7,3 +7,7 @@ Don't forget to uniquely name the API so it does not class with your classmates.
 
 ## Success Criteria
 Your coach will access the function API through API-M and verify the results via the url you provide.
+
+## Helpful links
+[Manually Add an API](https://docs.microsoft.com/en-us/azure/api-management/add-api-manually)
+[Import an OpenAPI Specification](https://docs.microsoft.com/en-us/azure/api-management/import-api-from-oas)
