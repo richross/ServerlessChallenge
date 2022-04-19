@@ -10,7 +10,7 @@ Challenge based learning session focused on Azure Functions, Azure API-M, and Ap
   - Access the Function App APIs through the exisitng API-M environment.
 - [Challenge 3](Challenge3.md) - Display APIs in Developer Portal
   - Share the new APIs with your team.
-- Challenge 4 - Monitor Function App
+- [Challenge 4](Challenge4.md) - Monitor Function App
   - Monitor the Function App through the AppInsights dashboard.
 - Challenge 5 - API-M Policies
   - Protect your API Bakend through policies.
